@@ -2,8 +2,6 @@
 this is a repo convert html to pdf using phantomJs
 
 
-install phatomJs in ubuntu
-
 Install PhantomJS on Ubuntu 18.04 LTS using Terminal
 Step 1: Update Package List
 
